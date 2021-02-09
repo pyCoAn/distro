@@ -17,7 +17,9 @@ First, download the base distribution tar file: <a href="https://github.com/pyCo
 Unpack the file with _tar -xf_, then _cd pycoan_base_install_. Follow the instructions in the _INSTALL_ file.
 
 If you want to install add-ons, download the approriate tar files. Currently available are:
+
 <a href="https://github.com/pyCoAn/distro/releases/v0.2.1373/pycoan_ctf_add-on_0.2.1373.tar">_pycoan_ctf_add-on_</a>: some extensions for handling CTFs.
+
 <a href="https://github.com/pyCoAn/distro/releases/v0.2.1373/pycoan_clem_add-on_0.2.1373.tar">_pycoan_clem_add-on_</a>: hole-based alignment of LM and EM images.
 
 Once you unpacked all add-on tar files with _tar -xf, cd pycoan_add-on_install_ and follow the instructions in the _INSTALL_ file
