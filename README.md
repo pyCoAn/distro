@@ -12,6 +12,17 @@ pyCoAn is in a constant state of ongoing development, as new algorithms get inco
 __Installation__
 
 Currently pyCoAn is only available for Linux. IThe binary install should work for most modern Linux distributions.
-First, download the base distribution tar file: <a href="https://github.com/pyCoAn/distro/releases/v0.2.1373/pycoan_base_distro_0.2.1373.tar">pycoan_base_distro</a>
+First, download the base distribution tar file: <a href="https://github.com/pyCoAn/distro/releases/v0.2.1373/pycoan_base_distro_0.2.1373.tar">_pycoan_base_distro_</a>
 
-Unpack the file with _tar -xf_, then _cd pycoan_base_install_ 
+Unpack the file with _tar -xf_, then _cd pycoan_base_install_. Follow the instructions in the _INSTALL_ file.
+
+If you want to install add-ons, download the approriate tar files. Currently available are:
+<a href="https://github.com/pyCoAn/distro/releases/v0.2.1373/pycoan_ctf_add-on_0.2.1373.tar">_pycoan_ctf_add-on_</a>: some extensions for handling CTFs.
+<a href="https://github.com/pyCoAn/distro/releases/v0.2.1373/pycoan_clem_add-on_0.2.1373.tar">_pycoan_clem_add-on_</a>: hole-based alignment of LM and EM images.
+
+Once you unpacked all add-on tar files with _tar -xf, cd pycoan_add-on_install_ and follow the instructions in the _INSTALL_ file
+
+The interactive version is called by tyoping _coan_ on the commandline, the batch version is called with _pycoan_
+
+
+         
