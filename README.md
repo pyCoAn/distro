@@ -8,7 +8,7 @@ Since its inception, CoAn has grown significantly in scope to incorporate analys
 
 pyCoAn is in a constant state of ongoing development, as new algorithms get incorporated and more of the original algorithms are being refactored as Python modules, along with continued work on parallelizing compute-intensive tasks. 
 
-#Installation
+__Installation__
 
 Currently pyCoAn is only available for Linux. IThe binary install should work for most modern Linux distributions.
-First, download the base distribution tar file: https://github.com/pyCoAn/distro/releases
+First, download the base distribution tar file: https://github.com/pyCoAn/distro/releases/v0.2.1373/pycoan_base_distro_0.2.1373.tar
