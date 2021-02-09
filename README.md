@@ -11,4 +11,4 @@ pyCoAn is in a constant state of ongoing development, as new algorithms get inco
 #Installation
 
 Currently pyCoAn is only available for Linux. IThe binary install should work for most modern Linux distributions.
-First, download the base distribution tar file: https://https://github.com/pyCoAn/distro/releases
+First, download the base distribution tar file: https://github.com/pyCoAn/distro/releases
