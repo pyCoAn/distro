@@ -14,4 +14,4 @@ __Installation__
 Currently pyCoAn is only available for Linux. IThe binary install should work for most modern Linux distributions.
 First, download the base distribution tar file: <a href="https://github.com/pyCoAn/distro/releases/v0.2.1373/pycoan_base_distro_0.2.1373.tar">pycoan_base_distro</a>
 
-Unpack the file with _tar -xf_, then cd _pycoan___base___install_
+Unpack the file with _tar -xf_, then _cd pycoan_base_install_ 
