@@ -22,7 +22,7 @@ If you want to install add-ons, download the approriate tar files. Currently ava
 
 Once you unpacked all add-on tar files with _tar -xf, cd pycoan_add-on_install_ and follow the instructions in the _INSTALL_ file
 
-The interactive version is called by tyoping _coan_ on the commandline, the batch version is called with _pycoan_
+The interactive version is called by typing _coan_ on the commandline, the batch version is called with _pycoan_
 
 
          
