@@ -1,4 +1,4 @@
-![banner](images/pycoan-banner.png)
+![banner](images/pycoan_banner.png)
 
 # Welcome to the pyCoAn GitHub Distribution Page
 
