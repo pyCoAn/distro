@@ -20,7 +20,7 @@ If you want to install add-ons, download the approriate tar files. Currently ava
   <a href="https://github.com/pyCoAn/distro/releases/download/v0.2.1373/pycoan_ctf_add-on_0.2.1373.tar">_pycoan_ctf_add-on_</a>: some extensions for handling CTFs.<br>
   <a href="https://github.com/pyCoAn/distro/releases/downlad/v0.2.1373/pycoan_clem_add-on_0.2.1373.tar">_pycoan_clem_add-on_</a>: hole-based alignment of LM and EM images.
 
-Once you unpacked all add-on tar files you want with _tar -xf, cd pycoan_add-on_install_ and follow the instructions in the _INSTALL_ file
+Once you unpacked all add-on tar files you want with _tar -xf, cd pycoan_add-on_install_, _cd pycoan_add-on_install_ and follow the instructions in the _INSTALL_ file
 
 The interactive version is called by typing _coan_ on the commandline, the batch version is called with _pycoan_
 
