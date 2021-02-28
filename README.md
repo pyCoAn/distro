@@ -22,7 +22,7 @@ If you want to install add-ons, download the approriate tar files. Currently ava
 
 Once you unpacked all add-on tar files you want with _tar -xf, cd pycoan_add-on_install_, _cd pycoan_add-on_install_ and follow the instructions in the _INSTALL_ file
 
-The interactive version is called by typing _coan_ on the commandline, the batch version is called with _pycoan_
+Once installed, the interactive version is called by typing _coan_ on the commandline, the batch version is called with _pycoan_
 
 Repository at <a href="https://github.com/pyCoAn/pyCoAn">_https://github.com/pyCoAn/pyCoAn_</a>
 
