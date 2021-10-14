@@ -24,7 +24,7 @@ Once you unpacked all add-on tar files you want with _tar -xf, cd pycoan_add-on_
 
 Once installed, the interactive version is called by typing _coan_ on the commandline, the batch version is called with _pycoan_
 
-Repository at <a href="https://github.com/pyCoAn/pyCoAn">_https://github.com/pyCoAn/distro/releases_</a>
+Repository at <a href="https://github.com/pyCoAn/distro/releases">_https://github.com/pyCoAn/distro/releases_</a>
 
 
          
