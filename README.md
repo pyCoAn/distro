@@ -26,5 +26,5 @@ Once installed, the interactive version is called by typing _coan_ on the comman
 
 Repository at <a href="https://github.com/pyCoAn/distro/releases">_https://github.com/pyCoAn/distro/releases_</a>
 
-<a href="https://github.com/pyCoAn/distro/docs/MEPSi_tutorial.html">_MEPSi_ tutorial</a>
+<a href="https://github.com/pyCoAn/distro/docs/MEPSi_Tutorial.html">_MEPSi_ tutorial</a>
          
