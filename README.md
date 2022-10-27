@@ -28,7 +28,7 @@ Once installed, the interactive version is called by typing _coan_ on the comman
 
 Repository at <a href="https://github.com/pyCoAn/distro/releases">_https://github.com/pyCoAn/distro/releases_</a>
 
-<h1>Tutorials:</h1>
+<h1>Tutorials</h1>
 
 <a href="https://htmlpreview.github.io/?https://github.com/pyCoAn/distro/blob/main/docs/MEPSi_Tutorial.html">_MEPSi_ tutorial</a> - SImulated tomograms of membrane embedded proteins<br>
 <a href="https://htmlpreview.github.io/?https://github.com/pyCoAn/distro/blob/main/docs/Feret_Tutorial.html">_Feret Signature_ tutorial</a> - Characterization of nanodisc size distributions<br>
